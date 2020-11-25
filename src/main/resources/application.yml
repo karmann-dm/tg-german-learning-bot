@@ -1,0 +1,8 @@
+app:
+  telegram:
+    botToken: "1494481796:AAGzRTnJMMBE3rEAa5YBwIGuESUgsqVfvj8"
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/german4u
